@@ -20,3 +20,7 @@ end
 def pop_with_args (dog_breeds)
   small_breeds=dog_breeds.pop(2)
 end
+
+def using_shift (dog_breeds)
+  small_breeds=dog_breeds.pop(2)
+end
